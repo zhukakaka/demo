@@ -4,3 +4,6 @@
 git学习
 
 ```
+git add file  将工作文件修改提交到本地暂存区
+git commit -m "desc"  提交描述
+git push  提交到远程仓库
