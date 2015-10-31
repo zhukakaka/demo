@@ -1,7 +1,7 @@
 # demo
 
 ```python
-git学习
+git 学习
 
 ```
 git add file  将工作文件修改提交到本地暂存区
