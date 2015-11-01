@@ -12,7 +12,8 @@ git diff 查看修改过的东西
 
 git commit -m "desc"  提交描述
 git push  提交到远程仓库
+
 git checkout learn.md  撤销修改 
 
-     
+
 
